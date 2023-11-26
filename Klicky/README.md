@@ -57,4 +57,4 @@ endstop_pin: probe:z_virtual_endstop
 ```
 
 Для датчика Klicky используется пин PC4 и земля.
-<img src=".Klicky/PIC/plate.png" alt="pic1" style="zoom:30%;" />
+<img src=".Klicky/PIC/plate.png" alt="plate" style="zoom:30%;" />
