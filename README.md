@@ -1,6 +1,8 @@
 ## FBG6-Condor
 
-<img src="./PIC/pic1.png" alt="pic1" style="zoom:50%;" />
+<img src="./PIC/pic1.png" alt="pic1" style="zoom:40%;" />
+
+<img src="./PIC/pic1.png" alt="pic2" style="zoom:40%;" />
 
 Проект печатной головы для принтера FBG6 с поддержкой Klicky и фидером с быстрым отжимом прижима филамента для более легкой замены прутка.
 
