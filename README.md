@@ -12,7 +12,7 @@
 - Набор BMG шестерней для экструдера
 - Круглый шаговый двигатель Nema 14 
 
-## [Настройка Klicky Probe](https://github.com/Chiffa-C3/FBG6-Condor/Klicky)
+## [Настройка Klicky Probe](https://github.com/Chiffa-C3/FBG6-Condor/tree/main/Klicky)
 
 Более подробно о Klicky Probe можно узнать на [странице проекта](https://github.com/jlas1/Klicky-Probe/tree/main)
 
