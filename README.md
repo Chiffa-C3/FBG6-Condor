@@ -12,14 +12,14 @@
 - Набор BMG шестерней для экструдера
 - Круглый шаговый двигатель Nema 14 
 
-<img src="./PIC/pic2.png" alt="pic2" style="zoom:40%;" />
+<img src="./PIC/pic2.png" alt="pic2" style="zoom:30%;" />
 
 ## [Настройка Klicky Probe](https://github.com/Chiffa-C3/FBG6-Condor/tree/main/Klicky)
 
-<img src="./PIC/pic5.png" alt="pic5" style="zoom:40%;" />
-
 Более подробно о Klicky Probe можно узнать на [странице проекта](https://github.com/jlas1/Klicky-Probe/tree/main)
+
+<img src="./PIC/pic5.png" alt="pic5" style="zoom:30%;" />
 
 Док станция для Klicky крепится поверх вентилятора на задней стенке принтера
 
-<img src="./PIC/pic6.png" alt="pic1" style="zoom:50%;" />
+<img src="./PIC/pic6.png" alt="pic1" style="zoom:30%;" />
