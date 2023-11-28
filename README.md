@@ -1,4 +1,4 @@
-# FBG6-Condor
+# FlyingBear Ghost 6 Print Head "Condor" 
 
 <img src="./PIC/pic1.png" alt="pic1" width="100%" height="100%" />
 
