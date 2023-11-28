@@ -1,5 +1,9 @@
 # Настройка Klicky
 
+Для датчика Klicky используется пин PC4 и земля.
+
+<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Klicky/PIC/plate.PNG" alt="plate" width="70%" height="70%"/>
+
 Файлы из папки Config скопировать рядом с файлом конфигурации прошивки Klipper `config.cfg`
 
 Заходим в сам файл config.cfg и добавляем в начало 
@@ -56,5 +60,9 @@ horizontal_move_z: 10
 endstop_pin: probe:z_virtual_endstop
 ```
 
-Для датчика Klicky используется пин PC4 и земля.
-<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Klicky/PIC/plate.PNG" alt="plate" width="50%" height="50%" />
+Настройка позиции док станции для корректировки правильной парковки находится в файле `klicky-variables.cfg`
+
+```
+variable_docklocation_x:      168    # X Dock position
+variable_docklocation_y:      210    # Y Dock position
+```
