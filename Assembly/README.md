@@ -60,3 +60,5 @@
 <img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic7.png" alt="pic7" width="100%" height="100%" />
 
 Далее прикручивается шаговый двигатель и регулируется его прижим к большой шестерне для устранения люфта, после этого можно вкручивать винт с пружиной для регулировки прижима.
+
+<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic8.png" alt="pic8" width="100%" height="100%" />
