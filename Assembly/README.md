@@ -9,8 +9,8 @@
 
 ***Перед установкой каретки желатательно закрепить все гайки в соответствующих пазах на каплю цианокрилата, для предотвращения выпадения.***
 
-<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic1.PNG" alt="pic1" width="100%" height="100%" />
-<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic2.PNG" alt="pic2" width="100%" height="100%" />
+<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic1.png" alt="pic1" width="100%" height="100%" />
+<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic2.png" alt="pic2" width="100%" height="100%" />
 
 ## Корпус для вентиляторов
 
@@ -27,12 +27,11 @@
 
 Два конца провода, которым будем выводить датчик Klicky для дальнейшего подключения к плате принтера, зачищаются от изоляции на 5-10мм,затем просовываются в предусмотренные отверстия в детали, после чего зачищеная часть провода загибается в паз для магнитов с последующим запресовыванием магнитов в отверстия (для надежности можно использовать каплю цианокрилата на дно отверстия под магнит).
 
-***При запресовывании магнитов, обратите внимание на их полярность, для корректного примагничивания Klicky один из трех магнитов должен быть развернут другим полюсом наружу (см. картинку ниже, красные и синие метки отображают положение магнитов)***
+***При запресовывании магнитов, обратите внимание на их полярность, для корректного примагничивания Klicky один из трех магнитов должен быть развернут другим полюсом наружу (см. картинку ниже, красные и синие метки отображают положение полюсов магнитов)***
 
 ***После вставки магнитов, не забудьте закрепить флажок концевика на соответствующее крепление!***
 
-<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic3.PNG" alt="pic3" width="100%" height="100%" />
-
+<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic3.png" alt="pic3" width="100%" height="100%" />
 
 ## Фидер
 
@@ -45,17 +44,17 @@
 - 5шт Вплавляемых резьбовых латунных вставок М3 4-5мм длины [пример](https://aliexpress.ru/item/1005005372220229.html)
 
 Перед началом сборки, вплавить в переднюю и заднюю крышку, а так же в подвижный прижим, латунные резьбовые вставки (см. картинки ниже) 
-*прим. на задней крышке отверстия для вставок находятся на внешней стороне)*
+***прим. на задней крышке отверстия для вставок находятся на внешней стороне)***
 
-<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic4.PNG" alt="pic4" width="100%" height="100%" />
-<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic5.PNG" alt="pic5" width="100%" height="100%" />
+<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic4.png" alt="pic4" width="100%" height="100%" />
+<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic5.png" alt="pic5" width="100%" height="100%" />
 
 Устанавливаем в лапку прижима филамента ответную часть шестерни, в нижние отверстия в передней крышке засовываем винты, далее устанавливаем на место подвижный прижим, лапку прижима и основную собранную ось экструдера вместе  с подшипниками. 
 
-<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic6.PNG" alt="pic6" width="100%" height="100%" />
+<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic6.png" alt="pic6" width="100%" height="100%" />
 
 Ставим на место заднюю крышку и привинчиваем ее не затягивая до конца, далее устанавливаем рычаг прижима и верхние два винта, скручиваем все вместе до конца.
 
 *** В процессе затягивания всех винтов, важно не переусердствовать, иначе можно потерять подвижность лапки прижима и откидывающегося рычага!***
 
-<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic7.PNG" alt="pic7" width="100%" height="100%" />
+<img src="https://github.com/Chiffa-C3/FBG6-Condor/blob/main/Assembly/PIC/pic7.png" alt="pic7" width="100%" height="100%" />
