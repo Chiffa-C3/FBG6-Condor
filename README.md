@@ -17,9 +17,9 @@
 
 <img src="./PIC/pic2.png" alt="pic2" width="100%" height="100%" />
 
-## [Сборка проекта](https://github.com/Chiffa-C3/FBG6-Condor/tree/main/Assembly)
+- [Сборка проекта](https://github.com/Chiffa-C3/FBG6-Condor/tree/main/Assembly)
 
-## [Настройка Klicky Probe](https://github.com/Chiffa-C3/FBG6-Condor/tree/main/Klicky)
+- [Настройка Klicky Probe](https://github.com/Chiffa-C3/FBG6-Condor/tree/main/Klicky)
 
 Более подробно о Klicky Probe можно узнать на [странице проекта](https://github.com/jlas1/Klicky-Probe/tree/main)
 
